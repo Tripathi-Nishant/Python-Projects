@@ -1,0 +1,6 @@
+path, traversal = bfs(m)
+# print("BFS Traversal Order:")
+# print(traversal)
+# a= agent(m, shape="arrow", footprints=True)
+# m.tracePath({a:path})
+# m.run()
